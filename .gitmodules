@@ -1,0 +1,3 @@
+[submodule "node-sample-repo"]
+	path = node-sample-repo
+	url = https://github.com/kaustubh10/node-sample-repo.git
