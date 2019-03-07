@@ -1,0 +1,19 @@
+{
+  "name": "main-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh10/node-main-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh10/node-main-repo/issues"
+  },
+  "homepage": "https://github.com/kaustubh10/node-main-repo#readme"
+}
